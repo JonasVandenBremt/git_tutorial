@@ -1,0 +1,3 @@
+this is an test
+Make some changes on the new branch.
+Testinng the autoSetupRemote setting of the global config file
